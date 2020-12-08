@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <!--[informatica](giphy.gif)-->
 ## Hi there 👋, I'm Endika <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/counter-strike.svg" />.
-<img src="giphy.gif" width="600"/>
+<p align="center"><img src="giphy.gif" width="600"/></p>
 
 #### Languages web environment
 
