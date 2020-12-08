@@ -2,7 +2,7 @@
 
 <!--
 **Endibra90/Endibra90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+https://img.shields.io/badge/-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=007acc
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
