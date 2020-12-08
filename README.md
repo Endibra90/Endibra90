@@ -46,7 +46,5 @@ Here are some ideas to get you started:
 <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/windows.svg" />   <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linux.svg" />   <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/ubuntu.svg" />   <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linuxmint.svg" />
 
 ## - 📞 Contact me 
-```diff 
-@@ Instagram @@
-```
+
 <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg"/>
