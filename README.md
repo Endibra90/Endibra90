@@ -47,4 +47,6 @@ Here are some ideas to get you started:
 
 ## - 📞 Contact me 
 
-![](https://img.shields.io/badge/Endibra90-informational?style=flat&logo=Instagram&logoColor=white&color=CA2160)  ![](https://img.shields.io/badge/Endikahs13-informational?style=flat&logo=Twitter&logoColor=white&color=36A2EE)  ![](https://img.shields.io/badge/endika.ph99@gmail.com-informational?style=flat&logo=Gmail&logoColor=white&color=F14336)
+[](https://img.shields.io/badge/Endibra90-informational?style=flat&logo=Instagram&logoColor=white&color=CA2160)  ![](https://img.shields.io/badge/Endikahs13-informational?style=flat&logo=Twitter&logoColor=white&color=36A2EE)  ![](https://img.shields.io/badge/endika.ph99@gmail.com-informational?style=flat&logo=Gmail&logoColor=white&color=F14336)
+
+<a href="https://www.instagram.com/endibra90/">Go IG Profile<a href="https://twitter.com/EndikaHs13">Go TW Profile
