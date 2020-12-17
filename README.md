@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 ![](https://img.shields.io/badge/Endibra90-informational?style=flat&logo=Instagram&logoColor=white&color=CA2160)  ![](https://img.shields.io/badge/Endikahs13-informational?style=flat&logo=Twitter&logoColor=white&color=36A2EE)  ![](https://img.shields.io/badge/endika.ph99@gmail.com-informational?style=flat&logo=Gmail&logoColor=white&color=F14336)
 <br>
-[![Top language](https://github-readme-stats.vercel.app/api/top-langs/?username=Endibra90&layout=compact&langs_count=20&card_width=900%)](https://github.com/anuraghazra/github-readme-stats)
+[![Top language](https://github-readme-stats.vercel.app/api/top-langs/?username=Endibra90&layout=compact&langs_count=20&card_width=800%)](https://github.com/anuraghazra/github-readme-stats)
 
  
