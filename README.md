@@ -24,12 +24,12 @@ Here are some ideas to get you started:
 
 
 #### Languages mobile environment
-<img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/dart.svg" />   <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/flutter.svg" />
+<img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/dart.svg" />   <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/flutter.svg" /> <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/react.svg" />
 
 #### Frameworks
 
 
-<img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/angular.svg" />   <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/laravel.svg" />   <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/spring.svg" /> 
+<img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/angular.svg" />   <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/laravel.svg" />   <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/spring.svg" /> <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/react.svg" />
 
 
 #### Tools
