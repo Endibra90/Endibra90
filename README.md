@@ -2,10 +2,6 @@
 **Endibra90/Endibra90** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
 -->
 
-<p align="center">
-  <img src="giphy.gif" width="500"/>
-</p>
-
 # 👋 Hey, I'm Endika
 
 Soy un desarrollador apasionado por la programación y la tecnología. Me muevo como pez en el agua en entornos **Back-End**, aunque también me defiendo bien en **Front-End** y desarrollo **Full Stack** cuando hace falta. Siempre estoy aprendiendo, explorando nuevas herramientas y buscando mejorar.
