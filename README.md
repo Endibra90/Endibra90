@@ -16,73 +16,73 @@ Soy un desarrollador apasionado por la programación y la tecnología. Me muevo 
 
 ### 🌐 Web Languages
 <p>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" height="20"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/typescript.svg" height="20"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" height="20"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/css3.svg" height="20"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/sass.svg" height="20"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/jquery.svg" height="20"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/jinja.svg" height="20"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg?color=white" height="20"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/typescript.svg?color=white" height="20"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg?color=white" height="20"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/css3.svg?color=white" height="20"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/sass.svg?color=white" height="20"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/jquery.svg?color=white" height="20"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/jinja.svg?color=white" height="20"/>
 </p>
 
 ### 📱 Mobile Development
 <p>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/flutter.svg" height="20"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/dart.svg" height="20"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/react.svg" height="20"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/flutter.svg?color=white" height="20"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/dart.svg?color=white" height="20"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/react.svg?color=white" height="20"/>
 </p>
 
 ### ⚙️ Frameworks
 <p>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/angular.svg" height="20"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/laravel.svg" height="20"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/spring.svg" height="20"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/react.svg" height="20"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/angular.svg?color=white" height="20"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/laravel.svg?color=white" height="20"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/spring.svg?color=white" height="20"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/react.svg?color=white" height="20"/>
 </p>
 
 ### 🛠️ Tools & IDEs
 <p>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/yarn.svg" height="20"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/npm.svg" height="20"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/webpack.svg" height="20"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/babel.svg" height="20"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/visualstudiocode.svg" height="20"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/intellijidea.svg" height="20"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/postman.svg" height="20"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/androidstudio.svg" height="20"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mapbox.svg" height="20"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/yarn.svg?color=white" height="20"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/npm.svg?color=white" height="20"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/webpack.svg?color=white" height="20"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/babel.svg?color=white" height="20"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/visualstudiocode.svg?color=white" height="20"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/intellijidea.svg?color=white" height="20"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/postman.svg?color=white" height="20"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/androidstudio.svg?color=white" height="20"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mapbox.svg?color=white" height="20"/>
 </p>
 
 ### 🧠 Programming Languages
 <p>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg" height="20"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/java.svg" height="20"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/php.svg" height="20"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/dot-net.svg" height="20"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg?color=white" height="20"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/java.svg?color=white" height="20"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/php.svg?color=white" height="20"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/dot-net.svg?color=white" height="20"/>
 </p>
 
 ### 🗄️ Databases
 <p>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mysql.svg" height="20"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mongodb.svg" height="20"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/postgresql.svg" height="20"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/microsoftaccess.svg" height="20"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mysql.svg?color=white" height="20"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mongodb.svg?color=white" height="20"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/postgresql.svg?color=white" height="20"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/microsoftaccess.svg?color=white" height="20"/>
 </p>
 
 ### 🌐 Servers & DevOps
 <p>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/nginx.svg" height="20"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/apache.svg" height="20"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/docker.svg" height="20"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/flask.svg" height="20"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/nginx.svg?color=white" height="20"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/apache.svg?color=white" height="20"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/docker.svg?color=white" height="20"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/flask.svg?color=white" height="20"/>
 </p>
 
 ### 💻 OS Experience
 <p>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/windows.svg" height="20"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linux.svg" height="20"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/ubuntu.svg" height="20"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linuxmint.svg" height="20"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/windows.svg?color=white" height="20"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linux.svg?color=white" height="20"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/ubuntu.svg?color=white" height="20"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linuxmint.svg?color=white" height="20"/>
 </p>
 
 ---
